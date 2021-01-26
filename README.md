@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I’m Zhenbang Xiao. My friends call me Stark Shaw. 👋
+
+I’m a Cloud Support Engineer working in AWS, based in Dublin, Ireland.
+
+I recently wrote an article about how to build the online version of Secret Santa on AWS on my personal blog, <a href="https://starkshaw.me/2021/01/23/How-Did-We-Build-the-Online-Version-of-Secret-Santa-Using-AWS/" rel="noopener noreferrer" target="_blank">check it out</a>.
+
+I also have some repos about particular things in AWS:
+
+- Want to know how to verify the signature of a JWT from Cognito? [Click here](https://github.com/starkshaw/aws-cognito-jwt-verifier).
+- Want to know how to sign Signature Version request in Lambda? [Click here](https://github.com/starkshaw/aws-sigv4-lambda).
+- Want to know how to generate secret hash for your Cognito app client? [Click here](https://github.com/starkshaw/aws-cognito-secret-hash-generator).
 
 <!--
 **starkshaw/starkshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
