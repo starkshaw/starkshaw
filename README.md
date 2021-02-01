@@ -7,7 +7,7 @@ I recently wrote an article about how to build the online version of Secret Sant
 I also have some repos about particular things in AWS:
 
 - Want to know how to verify the signature of a JWT from Cognito? [Click here](https://github.com/starkshaw/aws-cognito-jwt-verifier).
-- Want to know how to sign Signature Version request in Lambda? [Click here](https://github.com/starkshaw/aws-sigv4-lambda).
+- Want to know how to sign Signature Version 4 (SigV4) request in Lambda? [Click here](https://github.com/starkshaw/aws-sigv4-lambda).
 - Want to know how to generate secret hash for your Cognito app client? [Click here](https://github.com/starkshaw/aws-cognito-secret-hash-generator).
 
 <!--
