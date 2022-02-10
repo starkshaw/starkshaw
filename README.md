@@ -2,9 +2,9 @@
 
 I’m a Cloud Support Engineer working in AWS, based in Dublin, Ireland.
 
-I recently wrote an article about how to build the online version of Secret Santa on AWS on my personal blog, <a href="https://starkshaw.me/2021/01/23/How-Did-We-Build-the-Online-Version-of-Secret-Santa-Using-AWS/" rel="noopener noreferrer" target="_blank">check it out</a>.
+Want to know how to create a custom Docker image and run it in AWS Lambda? <a href="https://starkshaw.me/2021/11/13/How-To-Build-Lambda-Function-with-Other-Linux-Distro/" rel="noopener noreferrer" target="_blank">Check the article here</a>.
 
-I also have some repos about particular things in AWS:
+I also have some repos about some particular things in AWS:
 
 - Want to know how to verify the signature of a JWT from Cognito? [Click here](https://github.com/starkshaw/aws-cognito-jwt-verifier).
 - Want to know how to sign Signature Version 4 (SigV4) request in Lambda? [Click here](https://github.com/starkshaw/aws-sigv4-lambda).
